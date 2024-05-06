@@ -4,7 +4,7 @@
 
 # Site
 title: Shuojiang的博客
-subtitle: 我自爱我的野草，但我憎恶这以野草作装饰的地面。地火在地下运行，奔突；熔岩一旦喷出，将烧尽一切野草，以及乔木，于是并且无可朽腐。但我坦然，欣然。我将大笑，我将歌唱。
+subtitle: 遥望齐州九点烟，一泓海水杯中泻。
 description: A Computer Science Odyssey
 keywords:
 author: Shuojiang Liu
@@ -40,7 +40,10 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
+marked:
+  prependRoot: true
+  postAsset: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
