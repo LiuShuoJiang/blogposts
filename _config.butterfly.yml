@@ -21,7 +21,7 @@ menu:
 # Code Blocks (代碼相關)
 # --------------------------------------
 
-highlight_theme: ocean # darker / pale night / light / ocean / false
+highlight_theme: "pale night" # darker / pale night / light / ocean / false
 highlight_height_limit: 300 # unit: px
 code_word_wrap: false
 
@@ -578,7 +578,7 @@ baidu_analytics:
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
-google_analytics:
+google_analytics: G-7M4W4B4TC8
 
 # Cloudflare Analytics
 # https://www.cloudflare.com/zh-tw/web-analytics/
